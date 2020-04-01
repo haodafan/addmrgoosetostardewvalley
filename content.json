@@ -5,7 +5,24 @@
          "Action": "EditImage",
          "Target": "TileSheets/critters",
          "FromFile": "assets/goose.png",
-         "ToArea": { "X": 0, "Y": 0, "Width": 320, "Height": 32 } // optional, defaults to source size from top-left
+         "ToArea": { "X": 0, "Y": 0, "Width": 320, "Height": 32 } 
       },
+      {
+         "Action": "EditImage",
+         "Target": "TileSheets/critters",
+         "FromFile": "assets/goose-flying.png",
+         "ToArea": { "X": 0, "Y": 32, "Width": 128, "Height": 32 } 
+      },      {
+         "Action": "EditImage",
+         "Target": "TileSheets/critters",
+         "FromFile": "assets/goose-feeding.png",
+         "ToArea": { "X": 160, "Y": 64, "Width": 160, "Height": 32 } 
+      },
+      {
+         "Action": "EditImage",
+         "Target": "TileSheets/critters",
+         "FromFile": "assets/goose-flying-bird.png",
+         "ToArea": { "X": 0, "Y": 96, "Width": 128, "Height": 32 } 
+      }
    ]
 }

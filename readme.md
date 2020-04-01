@@ -16,4 +16,8 @@ Simply remove the folder containing this mod
 
 ## Changelog
 
+0.0.3: Replaces brown bird with idle and flying goose animation
+
+0.0.2: Added animation for flying geese, replacing the flying seagull animation
+
 0.0.1: Added a basic goose which replaces the idle seagull. 
