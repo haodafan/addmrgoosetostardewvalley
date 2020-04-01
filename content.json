@@ -1,0 +1,11 @@
+{
+   "Format": "1.13.0",
+   "Changes": [
+      {
+         "Action": "EditImage",
+         "Target": "TileSheets/critters",
+         "FromFile": "assets/goose.png",
+         "ToArea": { "X": 0, "Y": 0, "Width": 320, "Height": 32 } // optional, defaults to source size from top-left
+      },
+   ]
+}
