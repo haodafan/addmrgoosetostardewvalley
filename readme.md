@@ -1,5 +1,7 @@
 # Stardew Valley Canada Goose Mod 
 
+![honk honk honk](./preview.png "honk honk")
+
 ## How to install 
 
 1. Install [SMAPI](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows), a mod manager for Stardew Valley (compatible with the steam version). 

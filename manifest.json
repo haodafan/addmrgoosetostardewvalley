@@ -1,11 +1,11 @@
 {
   "Name": "Goose Mod",
   "Author": "Haoda Fan",
-  "Version": "0.0.1",
-  "Description": "Replaces crows and seagulls with Canada Geese. Probably one of the dumber things I've done at 2am",
+  "Version": "0.0.3",
+  "Description": "Replaces birds and seagulls with Canada Geese. Probably one of the dumber things I've done at 2am",
   "UniqueID": "Hoedat.GooseMod",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [],
+  "UpdateKeys": [  ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
     "MinimumVersion": "1.9.2" // optional
